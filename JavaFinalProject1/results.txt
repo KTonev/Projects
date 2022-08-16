@@ -1,0 +1,3 @@
+Income: 1600
+Cost: 800
+Printed publications: 20
